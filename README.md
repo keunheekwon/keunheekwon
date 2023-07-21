@@ -8,6 +8,5 @@
 # MY STATS
 
 
-[![keunheekwon](https://raw.githubusercontent.com/keunheekwon/keunheekwon/master/profile-summary-card-output/ocean_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Top Languages by Repo](https://raw.githubusercontent.com/keunheekwon/keunheekwon/master/profile-summary-card-output/ocean_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Top Languages by Commit](https://raw.githubusercontent.com/keunheekwon/keunheekwon/master/profile-summary-card-output/ocean_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Stats](https://raw.githubusercontent.com/keunheekwon/keunheekwon/master/profile-summary-card-output/ocean_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Commits](https://raw.githubusercontent.com/keunheekwon/keunheekwon/master/profile-summary-card-output/ocean_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![keunheekwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=keunheekwon&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keunheekwon&layout=compact)](https://github.com/keunheekwon/github-readme-stats)
