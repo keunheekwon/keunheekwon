@@ -1,8 +1,8 @@
 # keunheekwon
 
-PYTHON : 2021년 7월 18일 ~ 2022년 1월 23일<br/>
-JAVASCRIPT : 2022년 1월 24일 ~ 현재<br/>
-TYPESCRIPT : 2023년 6월 3일 ~ 현재
+PYTHON : 2021년 7월 18일 ~ <br/>
+JAVASCRIPT : 2022년 1월 24일 ~ <br/>
+TYPESCRIPT : 2023년 6월 3일 ~
 
 
 
